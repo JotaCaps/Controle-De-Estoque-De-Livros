@@ -1,0 +1,15 @@
+D:\Estudos\Controle-De-Estoque-De-Livros\bin\Debug\net8.0\Controle-De-Estoque-De-Livros.exe
+D:\Estudos\Controle-De-Estoque-De-Livros\bin\Debug\net8.0\Controle-De-Estoque-De-Livros.deps.json
+D:\Estudos\Controle-De-Estoque-De-Livros\bin\Debug\net8.0\Controle-De-Estoque-De-Livros.runtimeconfig.json
+D:\Estudos\Controle-De-Estoque-De-Livros\bin\Debug\net8.0\Controle-De-Estoque-De-Livros.dll
+D:\Estudos\Controle-De-Estoque-De-Livros\bin\Debug\net8.0\Controle-De-Estoque-De-Livros.pdb
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.AssemblyInfoInputs.cache
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.AssemblyInfo.cs
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.csproj.CoreCompileInputs.cache
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.sourcelink.json
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.dll
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\refint\Controle-De-Estoque-De-Livros.dll
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.pdb
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\Controle-De-Estoque-De-Livros.genruntimeconfig.cache
+D:\Estudos\Controle-De-Estoque-De-Livros\obj\Debug\net8.0\ref\Controle-De-Estoque-De-Livros.dll

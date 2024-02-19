@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Controle-De-Estoque-De-Livros/1.0.0": {
+        "runtime": {
+          "Controle-De-Estoque-De-Livros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controle-De-Estoque-De-Livros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
